@@ -35,8 +35,10 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 <tr>
 <td> 6/30 </td>
 <td>Statistics II </td>
+</tr>
+<tr>
 
-<td colspan="2">Regression Models</td>
+<td colspan="2">##Regression Models</td>
 </tr>
 <tr>
 <td> 7/5 </td> 
