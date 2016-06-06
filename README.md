@@ -14,7 +14,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 
 
 <tr>
-<td colspan="2">Week 1: Introduction to Data Science and Programming</td>
+<td colspan="2" style="font-weight:bold">Week 1: Introduction to Data Science and Programming</td>
 </tr>
 <tr>
 <td> 6/21 </td>
@@ -65,7 +65,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 <td colspan="2">Week 5: Advanced Classifiers</td>
 </tr>
 <tr>
-<td> 7/19 </td
+<td> 7/19 </td>
 <td> Decision Trees and Random Forests </td> 
 </tr>
 <tr>
