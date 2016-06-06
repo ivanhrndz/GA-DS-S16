@@ -11,7 +11,7 @@ Skype (ivan_hrndz) and by appointment
 ### Course Schedule
 
 | Week | Topic           |
-| --- |:--------------------------------------------:|
+| --- | -------------------------------------------- |
 |6/21| Course Overview Introduction to Data Science |
 |6/23| Research Design |
 |6/28| Data Collection through APIs and Scraping |
