@@ -10,25 +10,45 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 
 ### Course Schedule
 
-| Week | Topic           |
+| Day | Topic|
 | --- | -------------------------------------------- |
+
+Introduction to Data Science and Programming
 |6/21| Course Overview Introduction to Data Science |
-|6/23| Research Design |
-|6/28| Data Collection through APIs and Scraping |
-|6/30| Statistics I |
-|7/5| Statistics II |
-|7/7| Linear Regression |
-|7/12| Classification & Logistic Regression |
-|7/14| Evaluating Model Fit |
+|6/23| Data Collection through APIs and Scraping |
+
+Introduction to Statistics
+|6/28| Statistics I |
+|6/30| Statistics II |
+
+Regression Models
+|7/5| Linear Regression | 
+|7/7| Classification & Logistic Regression |
+
+Classification Continued
+|7/12| Evaluating Model Fit |
+|7/14| K-nearest Neighbors |
+
+Advanced Classifiers
 |7/19| Decision Trees and Random Forests |
-|7/21| K-nearest Neighbors |
-|7/26| Support Vector Machines |
-|7/28| Dimensionality Reduction |
-|8/2| Clustering |
-|8/4| Text Analysis and Natural Language Processing |
-|8/9| Time Series Data |
-|8/11| Databases |
+|7/21| Support Vector Machines |
+
+Grouping Data
+|7/26|  Dimensionality Reduction | 
+|7/28| Clustering |
+
+Alternative Data Structures
+|8/2| Text Analysis and Natural Language Processing |
+|8/4| Time Series Data |
+
+Big Data
+|8/9| Databases |
+|8/11| Parallel Programming |
+
+Student's Choice
 |8/15| Student's Choice |
 |8/17| Student's Choice |
+
+Summmary
 |8/23| Moving forward in Data Science |
 |8/25| Final Presentations |
