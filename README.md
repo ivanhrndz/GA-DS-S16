@@ -14,7 +14,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 
 
 <tr>
-<td colspan="2" style="font-weight:bold">Week 1: Introduction to Data Science and Programming</td>
+<td colspan="2"><strong>Week 1: Introduction to Data Science and Programming</strong></td>
 </tr>
 <tr>
 <td> 6/21 </td>
