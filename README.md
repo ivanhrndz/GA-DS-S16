@@ -50,7 +50,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 </tr>
 
 <tr>
-<td colspan="2"<strong>>Week 4: Classification Continued</strong></td>
+<td colspan="2"><strong>Week 4: Classification Continued</strong></td>
 </tr>
 <tr>
 <td> 7/12 </td>
