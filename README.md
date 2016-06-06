@@ -26,7 +26,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 </tr>
 <tr>
 
-<td colspan="2">Week 2: Introduction to Statistics</td>
+<td colspan="2"><strong>Week 2: Introduction<strong> to Statistics</strong></td>
 </tr>
 <tr>
 <td> 6/28</td> 
@@ -38,7 +38,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 </tr>
 <tr>
 
-<td colspan="2">Week 3: Regression Models</td>
+<td colspan="2"><strong>Week 3: Regression Models</strong></td>
 </tr>
 <tr>
 <td> 7/5 </td> 
@@ -50,7 +50,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 </tr>
 
 <tr>
-<td colspan="2">Week 4: Classification Continued</td>
+<td colspan="2"<strong>>Week 4: Classification Continued</strong></td>
 </tr>
 <tr>
 <td> 7/12 </td>
@@ -62,7 +62,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 </tr>
 
 <tr>
-<td colspan="2">Week 5: Advanced Classifiers</td>
+<td colspan="2"><strong>Week 5: Advanced Classifiers</strong></td>
 </tr>
 <tr>
 <td> 7/19 </td>
@@ -74,7 +74,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 </tr>
 
 <tr>
-<td colspan="2">Week 6: Unsupervised Learning</td>
+<td colspan="2"></strong>Week 6: Unsupervised Learning<strong></td>
 </tr>
 <tr>
 <td>  7/26 </td> 
@@ -86,7 +86,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 </tr>
 
 <tr>
-<td colspan="2">Week 7: Alternative Data Structures</td>
+<td colspan="2"><strong>Week 7: Alternative Data Structures<strong></td>
 </tr>
 <tr>
 <td> 8/2 </td> 
@@ -98,7 +98,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 </tr>
 
 <tr>
-<td colspan="2">Week 8: Big Data</td>
+<td colspan="2"><strong>Week 8: Big Data</strong></td>
 </tr>
 <tr>
  <td> 8/9  </td> 
@@ -110,7 +110,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 </tr>
 
 <tr>
-<td colspan="2">Week 9: Student's Choice</td>
+<td colspan="2"><strong>Week 9: Student's Choice</strong></td>
 </tr>
 <tr>
 <td> 8/15 </td> 
@@ -122,7 +122,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 </tr>
 
 <tr>
-<td colspan="2">Week 10: Summmary</td>
+<td colspan="2"><strong>Week 10: Summmary</strong></td>
 </tr>
 <tr>
 <td>  8/23 </td> 
