@@ -72,7 +72,7 @@ Skype (ivan_hrndz) and by appointment
 </tr>
 
 <tr>
-<td colspan="2"></strong>Week 6: Unsupervised Learning<strong></td>
+<td colspan="2"><strong>Week 6: Unsupervised Learning<strong></td>
 </tr>
 <tr>
 <td>  7/26 </td> 
