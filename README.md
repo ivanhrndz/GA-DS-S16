@@ -6,7 +6,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 #### Office Hours
 
-Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
+Skype <a href="skype:ivan_hrndz?chat">ivan_hrndz</a> and by appointment
 
 ### Course Schedule
 
