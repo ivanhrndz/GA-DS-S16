@@ -10,45 +10,124 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 
 ### Course Schedule
 
-| Day | Topic|
-| --- | -------------------------------------------- |
+<table>
 
-Introduction to Data Science and Programming
-|6/21| Course Overview Introduction to Data Science |
-|6/23| Data Collection through APIs and Scraping |
 
-Introduction to Statistics
-|6/28| Statistics I |
-|6/30| Statistics II |
+<tr>
+<td colspan="2">Introduction to Data Science and Programming</td>
+</tr>
+<tr>
+<td> 6/21 </td>
+<td> Course Overview Introduction to Data Science </td>
+</tr>
+<tr>
+<td> 6/23 </td>
+<td> Data Collection through APIs and Scraping </td>
+</tr>
+<tr>
 
-Regression Models
-|7/5| Linear Regression | 
-|7/7| Classification & Logistic Regression |
+<td colspan="2">Introduction to Statistics</td>
+</tr>
+<tr>
+<td> 6/28</td> 
+<td>Statistics I </td>
+</tr>
+<tr>
+<td> 6/30 </td>
+<td>Statistics II </td>
 
-Classification Continued
-|7/12| Evaluating Model Fit |
-|7/14| K-nearest Neighbors |
+<td colspan="2">Regression Models</td>
+</tr>
+<tr>
+<td> 7/5 </td> 
+<td> Linear Regression </td>
+<td> 7/7 </td>
+<tr>
+</tr>
+<td> Classification & Logistic Regression </td>
+</tr>
 
-Advanced Classifiers
-|7/19| Decision Trees and Random Forests |
-|7/21| Support Vector Machines |
+<tr>
+<td colspan="2">Classification Continued</td>
+</tr>
+<tr>
+<td> 7/12 </td>
+<td> Evaluating Model Fit </td>
+</tr>
+<tr>
+<td>  7/14 
+<td> K-nearest Neighbors </td> 
+</tr>
 
-Grouping Data
-|7/26|  Dimensionality Reduction | 
-|7/28| Clustering |
+<tr>
+<td colspan="2">Advanced Classifiers</td>
+</tr>
+<tr>
+<td> 7/19 </td
+<td> Decision Trees and Random Forests </td> 
+</tr>
+<tr>
+<td> 7/21 </td>  
+<td> Support Vector Machines </td> 
+</tr>
 
-Alternative Data Structures
-|8/2| Text Analysis and Natural Language Processing |
-|8/4| Time Series Data |
+<tr>
+<td colspan="2">Grouping Data</td>
+</tr>
+<tr>
+<td>  7/26 </td> 
+<td> Dimensionality Reduction </td>  
+</tr>
+<tr>
+<td>  7/28 </td>  
+<td> Clustering </td> 
+</tr>
 
-Big Data
-|8/9| Databases |
-|8/11| Parallel Programming |
+<tr>
+<td colspan="2">Alternative Data Structures</td>
+</tr>
+<tr>
+<td> 8/2 </td> 
+<td>  Text Analysis and Natural Language Processing </td> 
+</tr>
+<tr>
+<td>  8/4 </td> 
+<td> Time Series Data </td> 
+</tr>
 
-Student's Choice
-|8/15| Student's Choice |
-|8/17| Student's Choice |
+<tr>
+<td colspan="2">Big Data</td>
+</tr>
+<tr>
+ <td> 8/9  </td> 
+<td> Databases </td> 
+</tr>
+<tr>
+<td> 8/11 </td>  
+<td> Parallel Programming </td> 
+</tr>
 
-Summmary
-|8/23| Moving forward in Data Science |
-|8/25| Final Presentations |
+<tr>
+<td colspan="2">Student's Choice</td>
+</tr>
+<tr>
+<td> 8/15 </td> 
+<td> Student's Choice </td> 
+</tr>
+<tr>
+<td> 8/17 </td>  
+<td> Student's Choice </td> 
+</tr>
+
+<tr>
+<td colspan="2">Summmary</td>
+</tr>
+<tr>
+<td>  8/23 </td> 
+<td>Moving forward in Data Science </td> 
+</tr>
+<tr>
+<td> 8/25 </td> 
+<td> Final Presentations </td> 
+</tr>
+</table>
