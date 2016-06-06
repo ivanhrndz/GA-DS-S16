@@ -14,7 +14,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 
 
 <tr>
-<td colspan="2">Introduction to Data Science and Programming</td>
+<td colspan="2">Week 1: Introduction to Data Science and Programming</td>
 </tr>
 <tr>
 <td> 6/21 </td>
@@ -26,7 +26,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 </tr>
 <tr>
 
-<td colspan="2">Introduction to Statistics</td>
+<td colspan="2">Week 2: Introduction to Statistics</td>
 </tr>
 <tr>
 <td> 6/28</td> 
@@ -38,19 +38,19 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 </tr>
 <tr>
 
-<td colspan="2">##Regression Models</td>
+<td colspan="2">Week 3: Regression Models</td>
 </tr>
 <tr>
 <td> 7/5 </td> 
 <td> Linear Regression </td>
-<td> 7/7 </td>
-<tr>
 </tr>
+<tr>
+<td> 7/7 </td>
 <td> Classification & Logistic Regression </td>
 </tr>
 
 <tr>
-<td colspan="2">Classification Continued</td>
+<td colspan="2">Week 4: Classification Continued</td>
 </tr>
 <tr>
 <td> 7/12 </td>
@@ -62,7 +62,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 </tr>
 
 <tr>
-<td colspan="2">Advanced Classifiers</td>
+<td colspan="2">Week 5: Advanced Classifiers</td>
 </tr>
 <tr>
 <td> 7/19 </td
@@ -74,7 +74,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 </tr>
 
 <tr>
-<td colspan="2">Grouping Data</td>
+<td colspan="2">Week 6: Unsupervised Learning</td>
 </tr>
 <tr>
 <td>  7/26 </td> 
@@ -86,7 +86,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 </tr>
 
 <tr>
-<td colspan="2">Alternative Data Structures</td>
+<td colspan="2">Week 7: Alternative Data Structures</td>
 </tr>
 <tr>
 <td> 8/2 </td> 
@@ -98,7 +98,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 </tr>
 
 <tr>
-<td colspan="2">Big Data</td>
+<td colspan="2">Week 8: Big Data</td>
 </tr>
 <tr>
  <td> 8/9  </td> 
@@ -110,7 +110,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 </tr>
 
 <tr>
-<td colspan="2">Student's Choice</td>
+<td colspan="2">Week 9: Student's Choice</td>
 </tr>
 <tr>
 <td> 8/15 </td> 
@@ -122,7 +122,7 @@ Skype [ivan_hrndz](skype:ivan_hrndz?chat) and by appointment
 </tr>
 
 <tr>
-<td colspan="2">Summmary</td>
+<td colspan="2">Week 10: Summmary</td>
 </tr>
 <tr>
 <td>  8/23 </td> 
