@@ -111,11 +111,11 @@ Skype (ivan_hrndz) and by appointment
 <td colspan="2"><strong>Week 9: Student's Choice</strong></td>
 </tr>
 <tr>
-<td> 8/15 </td> 
+<td> 8/16 </td> 
 <td> Student's Choice </td> 
 </tr>
 <tr>
-<td> 8/17 </td>  
+<td> 8/18 </td>  
 <td> Student's Choice </td> 
 </tr>
 
